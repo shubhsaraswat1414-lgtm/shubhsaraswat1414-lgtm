@@ -39,6 +39,8 @@ I want to **create experiences that feel premium, cinematic, and impactful**.
 - **HTML5**
 - **CSS3**
 - **JavaScript (ES6+)**
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,javascript)](https://skillicons.dev)
 
 ### 🤖 AI / ML & Core CS
@@ -90,7 +92,8 @@ I want to **create experiences that feel premium, cinematic, and impactful**.
 
 - 💼 GitHub: *You’re already here 😉*
 - 🌐 Portfolio: *Coming soon…*
-- [![My Skills](https://skillicons.dev/icons?i=js,linkedin)](https://skillicons.dev)
+
+ [![My Skills](https://skillicons.dev/icons?i=,linkedin)](https://skillicons.dev)
 
 ---
 
